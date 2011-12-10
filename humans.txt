@@ -1,0 +1,13 @@
+/* TEAM */
+  Designer & Developer: RubenBristian
+  Site: http://rubenbristian.com
+  Twitter: rubenbristian
+  Location: Cluj-Napoca, Romania
+
+/* THANKS */
+  God :)
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: html5shim, jQuery, prettyPhoto, Twitter, Isotope, Nivo Slider, jFlickrFeed, jQuery Color & HoverFade Plugin, 
+  Software: Fireworks, Photoshop, Notepad++, FireBug
